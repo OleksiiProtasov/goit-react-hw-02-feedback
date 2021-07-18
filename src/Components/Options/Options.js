@@ -9,6 +9,7 @@ const FeedbackOptions = ({ onChangeStats }) => {
       <h1 className={styles.item}>Please leave feedback</h1>
       <ButtonGroup aria-label="contained primary button group">
         <Button
+          style={{ backgroundColor: "greenyellow" }}
           type="button"
           name="good"
           className={styles.button_good}
@@ -19,6 +20,7 @@ const FeedbackOptions = ({ onChangeStats }) => {
           good
         </Button>
         <Button
+          style={{ backgroundColor: "yellow" }}
           type="button"
           name="neutral"
           className={styles.button_neutral}
@@ -29,6 +31,7 @@ const FeedbackOptions = ({ onChangeStats }) => {
           neutral
         </Button>
         <Button
+          style={{ backgroundColor: "red" }}
           type="button"
           name="bad"
           className={styles.button_bad}
