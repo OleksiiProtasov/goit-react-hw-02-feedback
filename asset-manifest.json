@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OleksiiProtasov/goit-react-hw-02-feedback/static/css/main.a17699fb.chunk.css",
+    "main.js": "/OleksiiProtasov/goit-react-hw-02-feedback/static/js/main.f9e5dae0.chunk.js",
+    "main.js.map": "/OleksiiProtasov/goit-react-hw-02-feedback/static/js/main.f9e5dae0.chunk.js.map",
+    "runtime-main.js": "/OleksiiProtasov/goit-react-hw-02-feedback/static/js/runtime-main.b648518d.js",
+    "runtime-main.js.map": "/OleksiiProtasov/goit-react-hw-02-feedback/static/js/runtime-main.b648518d.js.map",
+    "static/js/2.832ac937.chunk.js": "/OleksiiProtasov/goit-react-hw-02-feedback/static/js/2.832ac937.chunk.js",
+    "static/js/2.832ac937.chunk.js.map": "/OleksiiProtasov/goit-react-hw-02-feedback/static/js/2.832ac937.chunk.js.map",
+    "static/js/3.8694453d.chunk.js": "/OleksiiProtasov/goit-react-hw-02-feedback/static/js/3.8694453d.chunk.js",
+    "static/js/3.8694453d.chunk.js.map": "/OleksiiProtasov/goit-react-hw-02-feedback/static/js/3.8694453d.chunk.js.map",
+    "index.html": "/OleksiiProtasov/goit-react-hw-02-feedback/index.html",
+    "static/css/main.a17699fb.chunk.css.map": "/OleksiiProtasov/goit-react-hw-02-feedback/static/css/main.a17699fb.chunk.css.map",
+    "static/js/2.832ac937.chunk.js.LICENSE.txt": "/OleksiiProtasov/goit-react-hw-02-feedback/static/js/2.832ac937.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b648518d.js",
+    "static/js/2.832ac937.chunk.js",
+    "static/css/main.a17699fb.chunk.css",
+    "static/js/main.f9e5dae0.chunk.js"
+  ]
+}
